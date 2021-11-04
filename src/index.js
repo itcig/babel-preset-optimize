@@ -45,6 +45,7 @@ module.exports = function babelPresetOptimize(api, options) {
   return {
     presets: [
       opts.typescript && ['@babel/preset-typescript', { jsxPragma: pragma, isTSX: true, allExtensions: true }],
+      '@babel/preset-env',
       '@babel/preset-modules',
       react,
     ].filter(Boolean),

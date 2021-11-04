@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.0](https://github.com/itcig/itcig/compare/@itcig/babel-preset-optimize@1.1.6...@itcig/babel-preset-optimize@1.2.0) (2021-11-04)
+
+
+### Features
+
+* **babel-preset-optimize:** add preset-env package ([cd3572f](https://github.com/itcig/itcig/commit/cd3572f357b2e8970a564eabd413141144c9a612))
+
+
+
 ### [1.1.6](https://github.com/itcig/itcig/compare/@itcig/babel-preset-optimize@1.1.5...@itcig/babel-preset-optimize@1.1.6) (2021-11-04)
 
 **Note:** Version bump only for package @itcig/babel-preset-optimize
