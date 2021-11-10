@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.0](https://github.com/itcig/itcig/compare/@itcig/babel-preset-optimize@1.2.0...@itcig/babel-preset-optimize@1.3.0) (2021-11-10)
+
+
+### Features
+
+* **babel-preset-optimize:** upgrade dependencies ([b727b02](https://github.com/itcig/itcig/commit/b727b0237d8348387d37d44a5dd36860a806bef7))
+
+
+
 ## [1.2.0](https://github.com/itcig/itcig/compare/@itcig/babel-preset-optimize@1.1.6...@itcig/babel-preset-optimize@1.2.0) (2021-11-04)
 
 

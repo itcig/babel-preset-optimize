@@ -69,7 +69,7 @@ module.exports = function babelPresetOptimize(api, options) {
       // When unused variable, it doesn't removes the value of the var
       // 'babel-plugin-minify-dead-code-elimination',
 
-      react && 'babel-plugin-transform-react-constant-elements',
+      react && '@babel/plugin-transform-react-constant-elements',
       react && 'babel-plugin-transform-react-pure-class-to-function',
       opts.development !== true && react && ['babel-plugin-transform-react-remove-prop-types', { removeImport: true }],
     ].filter(Boolean),
