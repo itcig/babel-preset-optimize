@@ -59,7 +59,7 @@ module.exports = function babelPresetOptimize(api, options) {
       'babel-plugin-transform-inline-environment-variables',
 
       'babel-plugin-transform-regexp-constructors',
-      ['babel-plugin-transform-remove-console', { exclude: ['error', 'warn'] }],
+      opts.development !== true && ['babel-plugin-transform-remove-console', { exclude: ['error', 'warn'] }],
       'babel-plugin-transform-remove-undefined',
       'babel-plugin-transform-undefined-to-void',
       opts.development !== true && 'babel-plugin-unassert',
