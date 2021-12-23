@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.4.0](https://github.com/itcig/itcig/compare/@itcig/babel-preset-optimize@1.3.0...@itcig/babel-preset-optimize@1.4.0) (2021-12-23)
+
+
+### Features
+
+* **babel-preset-optimize:** toggle remove console logs plugin ([#6](https://github.com/itcig/itcig/issues/6)) ([b9ffb17](https://github.com/itcig/itcig/commit/b9ffb17bb4521dd5533f9de6652d56d00cd472fa))
+
+
+
 ## [1.3.0](https://github.com/itcig/itcig/compare/@itcig/babel-preset-optimize@1.2.0...@itcig/babel-preset-optimize@1.3.0) (2021-11-10)
 
 
